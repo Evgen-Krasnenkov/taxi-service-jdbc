@@ -9,8 +9,8 @@ public class ConnectionUtil {
     public static final String JDBC_DRIVER_PATH = "com.mysql.cj.jdbc.Driver";
     public static final String JDBC_CONNECTION_PATH
             = "jdbc:mysql://remotemysql.com:3306/QaXsMwcmEG"; //change DB name
-    public static final String PASSWORD = "Kf7as235G0"; //INSERT PASSWORD
-    public static final String LOGIN = "QaXsMwcmEG"; //INSERT LOGIN
+    public static final String PASSWORD = ""; //INSERT PASSWORD
+    public static final String LOGIN = ""; //INSERT LOGIN
 
     static {
         try {
